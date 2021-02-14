@@ -1,0 +1,45 @@
+﻿/* Place Your Custom Styles Here */
+/*--/team --*/
+.team-info h3 {
+    font-size: 1.2em;
+    color: #1b1b1b;
+    margin: 0 0 0.5em 0;
+}
+
+.team-info h3 a {
+    color: #1b1b1b;
+}
+
+.team-info h3 a:hover {
+    color: #444;
+}
+
+.sub-tittle-team {
+    font-size: 1em;
+    color: #495057;
+}
+
+.team-info p {
+    padding: 0 1em;
+}
+
+.icon-social.team a {
+    color: #000 !important;
+}
+
+ul.list-right-w3pvt-book.team-sing li {
+    color: #777;
+}
+
+ul.list-right-w3pvt-book.team-sing span {
+    font-size: 0.6em;
+    margin-right: 1em;
+}
+
+.team-gd img:hover {
+    opacity: 0.8;
+}
+
+.button-footr{
+    padding: 15px;
+}
